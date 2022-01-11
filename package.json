@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "jest": "^27.4.7",
+    "supertest": "^6.1.6"
+  },
+  "name": "express-server-deployment",
+  "description": "HTTP Express Server - deployed on Heroku",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpencerTower/express-server-deployment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpencerTower/express-server-deployment/issues"
+  },
+  "homepage": "https://github.com/SpencerTower/express-server-deployment#readme"
+}

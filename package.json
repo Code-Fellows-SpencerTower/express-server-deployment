@@ -22,5 +22,7 @@
   "bugs": {
     "url": "https://github.com/SpencerTower/express-server-deployment/issues"
   },
-  "homepage": "https://github.com/SpencerTower/express-server-deployment#readme"
+  "homepage": "https://github.com/SpencerTower/express-server-deployment#readme",
+  "devDependencies": {},
+  "keywords": []
 }

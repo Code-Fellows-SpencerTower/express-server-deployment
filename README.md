@@ -2,7 +2,7 @@
 
 HTTP Express Server deployed on Heroku
 
-Deployment URL: [https://express-server-deployment-sjt.herokuapp.com/](https://express-server-deployment-sjt.herokuapp.com/)
+Deployment URL: [https://sjt-server-deploy-dev.herokuapp.com/](https://sjt-server-deploy-dev.herokuapp.com/)
 
 ![Server](ServerImg.png)
 
